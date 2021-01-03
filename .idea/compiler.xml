@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$USER_HOME$/Views/Folder-explorer/src/main/webapp/public/jspm_packages" includeSubdirectories="true" />
+      <directory url="file://$USER_HOME$/Views/Folder-explorer/src/main/webapp/public/node_modules" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <wildcardResourcePatterns>
+      <entry name="?*.properties" />
+      <entry name="?*.xml" />
+      <entry name="?*.gif" />
+      <entry name="?*.png" />
+      <entry name="?*.jpeg" />
+      <entry name="?*.jpg" />
+      <entry name="?*.html" />
+      <entry name="?*.dtd" />
+      <entry name="?*.tld" />
+      <entry name="?*.ftl" />
+      <entry name="?*.p12" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel target="11" />
+  </component>
+</project>

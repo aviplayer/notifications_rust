@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+echo "starting core services..."
+docker-compose -f docker-compose.yaml up -d postgres

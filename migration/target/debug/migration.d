@@ -1,0 +1,1 @@
+/Users/andrewv/Views/playground/rust/web_app/migration/target/debug/migration: /Users/andrewv/Views/playground/rust/web_app/migration/migrations/V1__initial.sql /Users/andrewv/Views/playground/rust/web_app/migration/src/main.rs
